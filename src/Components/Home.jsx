@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/462B.jpg";
+import image from "../images/pexels-pixabay-56865.jpg";
 
 const imageAltText = "Adefuwa Isaac - Web Developer and content creator. This is a background photo of birds flying in the sky.S";
 
