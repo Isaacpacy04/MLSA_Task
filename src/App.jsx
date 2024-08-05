@@ -19,19 +19,19 @@ import "./styles.css";
  * only need to update these here, and values are passed a properties to the
  * components that need that information.
  *
- * Update the values below with your information.
+ * Update the vallexandrie Grenierues below with your information.
  *
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Alexandrie Grenier",
+  name: "Isaac Adefuwa",
   title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
+  email: "lsaacadefuwa@gmail.com",
+  gitHub: "Isaacpacy04",
   instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
+  linkedIn: "isaac adefuwa",
+  medium: " ",
+  twitter: "isaac adefuwa",
   youTube: "Code",
 };
 
